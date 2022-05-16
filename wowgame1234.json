@@ -1,0 +1,98 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี รับง่ายเพียงสมัครสมาชิก !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/6a89ed3fa29eaadc6d3c480fb687d9db.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/NwznrBw"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "WOWGAME1234",
+        "weight": "bold",
+        "align": "center",
+        "size": "xl",
+        "color": "#FF0000",
+        "decoration": "none"
+      },
+      {
+        "type": "text",
+        "text": "รับง่ายๆเพียงสมัครสมาชิกสามารถรับทันทีไม่ต้องฝากก่อน ยูซเดียวเล่นได้ทุกค่ายเกม",
+        "wrap": true,
+        "align": "center",
+        "size": "sm",
+        "weight": "bold",
+        "color": "#FFFAFA"
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี ",
+          "uri": "https://lin.ee/NwznrBw"
+        },
+        "style": "primary",
+        "color": "#FF0000"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซค์",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          }
+        ],
+        "spacing": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อฝ่ายบริการ",
+          "uri": "https://lin.ee/NwznrBw"
+        },
+        "style": "primary",
+        "color": "#FF0000"
+      }
+    ],
+    "spacing": "sm",
+    "backgroundColor": "#000000"
+  }
+}
+}]
