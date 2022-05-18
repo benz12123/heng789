@@ -1,0 +1,131 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี 100 ไม่ต้องฝากก่อน !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "video",
+    "url": "https://i.wowslot.club/videos/WG1234.mp4",
+    "previewUrl": "https://i.wowslot.club/videos/WG1234.mp4",
+    "altContent": {
+      "type": "image",
+      "size": "full",
+      "url": "https://sv1.picz.in.th/images/2022/05/16/HxvSd0.png",
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://allufabet789.online/"
+      },
+      "backgroundColor": "#000000"
+    },
+    "aspectRatio": "3:2",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://allufabet789.online/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/05/16/HxptDb.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/NwznrBw"
+        }
+      },
+      {
+        "type": "text",
+        "text": "WOWGAME1234",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FF0000",
+        "offsetBottom": "none",
+        "offsetTop": "lg",
+        "size": "lg"
+      },
+      {
+        "type": "text",
+        "text": "รับง่ายเพียงสมัครสมาชิกใหม่ สามารถรับได้ทันทีไม่ต้องฝากก่อน เครดิตฟรีเล่นได้ทุกค่ายเกม",
+        "align": "center",
+        "color": "#FFFFFF",
+        "margin": "lg",
+        "wrap": true
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/05/16/HxvW4z.png",
+        "size": "full",
+        "aspectRatio": "3:1",
+        "animated": true,
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/NwznrBw"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/NwznrBw"
+        },
+        "style": "primary",
+        "color": "#FF0000"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซค์",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          }
+        ],
+        "spacing": "sm"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "spacing": "sm"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#000000"
+    },
+    "hero": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]
