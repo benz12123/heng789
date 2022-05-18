@@ -1,0 +1,177 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี เพียงสมัครรับได้ทันที !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/885986ec6dc07627f8aa30f907599303.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/9WL6z0y"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "WOWGAME919",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#FFD700",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/9WL6z0y"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/a49418db8536218ebc0d03f24bcbafb4.png"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/5a4423508df19d29202a404d5b8eb715.png"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/257ffa4f92caca3d9e9cb9d0d91d8f58.png"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "มั่นคงปลอดภัย",
+            "size": "sm",
+            "offsetStart": "md",
+            "weight": "bold",
+            "color": "#00FF7F",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/9WL6z0y"
+            }
+          },
+          {
+            "type": "text",
+            "text": "ฝากถอนอัตโนมัติ",
+            "size": "sm",
+            "offsetStart": "sm",
+            "weight": "bold",
+            "color": "#00FF7F",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/9WL6z0y"
+            }
+          },
+          {
+            "type": "text",
+            "text": "บริการ 24 ชั่วโมง",
+            "size": "sm",
+            "offsetStart": "md",
+            "weight": "bold",
+            "color": "#00FF7F",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/9WL6z0y"
+            }
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "sm"
+      },
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรีเพียงสมัครรับได้ทันที",
+        "align": "center",
+        "weight": "bold",
+        "size": "md",
+        "margin": "sm",
+        "color": "#FFD700",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/9WL6z0y"
+        }
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกใหม่ ผ่านระบบอัตโนมัติ เล่นได้ทุกค่ายเกม  เเจกเครดิตฟรีจำนวน 100,000 ยูซเซอร์",
+        "align": "center",
+        "wrap": true,
+        "size": "sm",
+        "color": "#FFD700",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/9WL6z0y"
+        }
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี 50 บาท",
+          "uri": "https://lin.ee/9WL6z0y"
+        },
+        "style": "primary",
+        "color": "#FFD700"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://betflikauto889.com/member/home"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซต์",
+              "uri": "https://betflikauto889.com/member/home"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "sm"
+      }
+    ],
+    "spacing": "sm",
+    "backgroundColor": "#000000"
+  }
+}
+}]
